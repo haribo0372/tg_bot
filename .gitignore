@@ -5,7 +5,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 settings.py
-bd_lab_#9.py
+bd_lab_9.py
 # C extensions
 *.so
 
